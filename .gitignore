@@ -15,3 +15,4 @@ pom.xml.asc
 /.sass-cache
 /.cljs_rhino_repl/.cljs_rhino_repl/cljs/core.js
 /.cljs_rhino_repl/.cljs_rhino_repl/cljs/core.js.map
+/.cljs_rhino_repl/accountant/core.cljs
